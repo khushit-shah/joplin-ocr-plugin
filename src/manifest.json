@@ -1,0 +1,12 @@
+{
+	"manifest_version": 1,
+	"id": "com.khushitshah.joplinocr",
+	"app_min_version": "1.7",
+	"version": "1.0.0",
+	"name": "Joplin OCR",
+	"description": "Plugin to OCR an Image on desktop apps",
+	"author": "khushit-shah",
+	"homepage_url": "khushit-shah.github.io/joplin-ocr-plugin",
+	"repository_url": "https://github.com/khushit-shah/joplin-ocr-plugin",
+	"keywords": []
+}
